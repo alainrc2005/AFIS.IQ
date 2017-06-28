@@ -1,5 +1,5 @@
 # AFIS.IQ
 
-Ensamblado .NET para el cálculo de calidad de impresiones dactilares según NBIS (NIST Biometric Image Software)
+Ensamblado .NET para el cálculo de calidad de impresiones dactilares según NBIS (NIST Biometric Image Software). Hace link con AFIS.IQ.K
 
 <a href="https://www.nist.gov/services-resources/software/nist-biometric-image-software-nbis">NIST Biometric Image Software</a>
